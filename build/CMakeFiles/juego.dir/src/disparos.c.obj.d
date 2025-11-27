@@ -1,0 +1,25 @@
+CMakeFiles/juego.dir/src/disparos.c.obj: \
+ C:\Universidad\PS_ProyectosinPS\src\disparos.c \
+ C:/Universidad/PS_ProyectosinPS/include/disparos.h \
+ C:/Users/Usuario/w64devkit/include/raylib.h \
+ C:/Users/Usuario/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Users/Usuario/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdbool.h \
+ C:/Universidad/PS_ProyectosinPS/include/juego.h \
+ C:/Universidad/PS_ProyectosinPS/include/juego.h \
+ C:/Universidad/PS_ProyectosinPS/include/asteroides.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/stdio.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/math.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Universidad/PS_ProyectosinPS/include/fracciones.h

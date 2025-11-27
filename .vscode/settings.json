@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "raylib.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:/Users/Usuario/w64devkit/bin/gcc.exe"
+}

@@ -1,0 +1,34 @@
+CMakeFiles/juego.dir/src/main.c.obj: \
+ C:\Universidad\PS_ProyectosinPS\src\main.c \
+ C:/Users/Usuario/w64devkit/include/raylib.h \
+ C:/Users/Usuario/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Users/Usuario/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdbool.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/stdio.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/unistd.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/io.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/string.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/process.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/corecrt_startup.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/sys/types.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/getopt.h \
+ C:/Users/Usuario/w64devkit/x86_64-w64-mingw32/include/pthread_unistd.h \
+ C:/Universidad/PS_ProyectosinPS/include/juego.h \
+ C:/Universidad/PS_ProyectosinPS/include/pantallas.h \
+ C:/Universidad/PS_ProyectosinPS/include/juego.h \
+ C:/Universidad/PS_ProyectosinPS/include/fondo.h \
+ C:/Universidad/PS_ProyectosinPS/include/puntuaciones.h \
+ C:/Universidad/PS_ProyectosinPS/include/botones.h

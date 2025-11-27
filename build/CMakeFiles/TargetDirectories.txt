@@ -1,0 +1,3 @@
+C:/Universidad/PS_ProyectosinPS/build/CMakeFiles/juego.dir
+C:/Universidad/PS_ProyectosinPS/build/CMakeFiles/edit_cache.dir
+C:/Universidad/PS_ProyectosinPS/build/CMakeFiles/rebuild_cache.dir
