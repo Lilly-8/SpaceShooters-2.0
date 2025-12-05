@@ -1,0 +1,15 @@
+*.class
+*.log
+
+/build/
+/dist/
+
+/nbproject/private/
+/nbproject/config/
+/nbproject/Makefile-*.mk
+/nbproject/*-private.xml
+
+.vscode/
+
+.DS_Store
+Thumbs.db
